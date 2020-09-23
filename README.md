@@ -13,3 +13,4 @@ cd your_repo; git clone git@github.com:burakkilincofficial/flutter-learning.git
 # Run Android Studio and open the projects under folder
 cd path/to/flutter/app
 flutter run
+
